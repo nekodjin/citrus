@@ -6,3 +6,8 @@ license = "BSD-3-Clause"
 authors = ["Avery R. <contact@nekodjin.org>"]
 
 [dependencies]
+rand = "0.8"
+
+[dependencies.noise]
+version = "0.7"
+default-features = false
